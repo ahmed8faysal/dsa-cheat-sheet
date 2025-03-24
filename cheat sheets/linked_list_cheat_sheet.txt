@@ -1,0 +1,19 @@
+Linked List Cheat Sheet
+
+Key Operations:
+- Access: O(n)
+- Insertion (beginning): O(1)
+- Insertion (end): O(n) (singly linked), O(1) (doubly linked)
+- Deletion (beginning): O(1)
+- Deletion (end): O(n) (singly linked), O(1) (doubly linked)
+- Search: O(n)
+
+Common Use Cases:
+- Implementing stacks and queues.
+- Dynamic memory allocation.
+- Representing polynomial expressions.
+
+Notes:
+- Linked lists have non-contiguous memory allocation.
+- Singly linked lists have pointers to the next node.
+- Doubly linked lists have pointers to the next and previous nodes.
