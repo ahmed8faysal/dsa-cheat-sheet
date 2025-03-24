@@ -1,0 +1,16 @@
+Tree Cheat Sheet
+
+Key Operations (Binary Tree):
+- Insertion: O(log n) (balanced), O(n) (unbalanced)
+- Deletion: O(log n) (balanced), O(n) (unbalanced)
+- Search: O(log n) (balanced), O(n) (unbalanced)
+- Traversal (inorder, preorder, postorder): O(n)
+
+Common Use Cases:
+- Representing hierarchical data.
+- Binary search trees for efficient searching.
+- Heaps for priority queues.
+
+Notes:
+- Balanced trees (e.g., AVL, red-black) maintain O(log n) operations.
+- Unbalanced trees can degenerate to linked lists.
