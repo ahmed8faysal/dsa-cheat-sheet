@@ -1,0 +1,16 @@
+Dynamic Programming Cheat Sheet
+
+Key Concepts:
+- Overlapping subproblems
+- Optimal substructure
+- Memoization (top-down)
+- Tabulation (bottom-up)
+
+Common Use Cases:
+- Optimization problems.
+- Sequence alignment.
+- Knapsack problem.
+
+Notes:
+- DP can significantly improve performance by storing intermediate results.
+- Identifying overlapping subproblems and optimal substructure is crucial.
