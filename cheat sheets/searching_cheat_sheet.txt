@@ -1,0 +1,14 @@
+Searching Cheat Sheet
+
+Algorithms:
+- Linear Search: O(n)
+- Binary Search: O(log n) (sorted array)
+
+Common Use Cases:
+- Finding elements in a collection.
+- Implementing lookup tables.
+- Searching in sorted data.
+
+Notes:
+- Binary search requires a sorted array.
+- Linear search works on unsorted data.
