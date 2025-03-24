@@ -1,0 +1,18 @@
+Sorting Cheat Sheet
+
+Algorithms:
+- Bubble Sort: O(n^2)
+- Insertion Sort: O(n^2)
+- Selection Sort: O(n^2)
+- Merge Sort: O(n log n)
+- Quick Sort: O(n log n) (average), O(n^2) (worst)
+- Heap Sort: O(n log n)
+
+Common Use Cases:
+- Ordering data for efficient searching.
+- Data preprocessing.
+- Implementing priority queues (heap sort).
+
+Notes:
+- Merge sort and heap sort have guaranteed O(n log n) time complexity.
+- Quick sort is often faster in practice but has a worst-case O(n^2).
