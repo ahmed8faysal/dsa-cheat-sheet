@@ -1,0 +1,17 @@
+Graph Cheat Sheet
+
+Key Operations:
+- Add Vertex: O(1)
+- Add Edge: O(1) (adjacency list), O(V^2) (adjacency matrix)
+- DFS: O(V + E)
+- BFS: O(V + E)
+
+Common Use Cases:
+- Representing networks.
+- Social network analysis.
+- Pathfinding algorithms.
+
+Notes:
+- Adjacency lists are efficient for sparse graphs.
+- Adjacency matrices are efficient for dense graphs.
+- V = number of vertices, E = number of edges.
